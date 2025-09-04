@@ -41,23 +41,7 @@ The analysis was designed to uncover insights on:
 
 ## 📷 Dashboard Preview
 
-### Business KPIs
-
-![KPIs](./193784ec-826c-4f75-963b-fecbb53764d7.png)
-
-### Granular Requirements
-
-![Granular](./9a96bc6a-e5ce-4765-b41e-d28d9421481f.png)
-
-### Chart Requirements
-
-![Charts](./4d74f3c6-8384-492a-abcb-baa804bc1ef6.png)
-
-### Final Power BI Dashboard
-
-![Dashboard](./375399eb-8d8f-4f40-aee6-40bd11d19647.png)
-
----
+![Dashboard](https://github.com/s-balamurali/Blinkit_Dashboard_PowerBI/blob/main/Blinkit_DashBoard_2025.jpg)
 
 ## ⚙️ Tools & Tech Stack
 
