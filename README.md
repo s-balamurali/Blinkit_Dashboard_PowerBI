@@ -3,7 +3,7 @@
 
 📊 **Comprehensive Sales Performance, Customer Insights & Outlet Analysis using Power BI**
 
-This project is a **data-driven analysis of Blinkit’s sales performance** using **SQL + Power BI**, transforming raw business requirements into an interactive and insightful dashboard.
+This project is a **data-driven analysis of Blinkit’s sales performance** using **Power BI**, transforming raw business requirements into an interactive and insightful dashboard.
 
 ---
 
@@ -45,7 +45,6 @@ The analysis was designed to uncover insights on:
 
 ## ⚙️ Tools & Tech Stack
 
-* **SQL** – Data extraction & preprocessing
 * **Power BI** – Dashboard design & visualization
 * **Business Analysis** – Requirement gathering & KPI mapping
 
